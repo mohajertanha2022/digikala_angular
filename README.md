@@ -2,4 +2,4 @@
 
 
 This project website with angular 12: digikala.com
-sponser by: almanizaban.com
+sponser by: [Almanizaban.com.cz](https://www.almanizaban.com/)
